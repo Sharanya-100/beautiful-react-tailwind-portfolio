@@ -6,7 +6,7 @@ const projects = [
     title: "Med+",
     description: "Centralized Database based prolific health management portal.",
     image: "/projects/project11.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
+    tags: ["React", "Bootstrap", "MongoDB"],
     demoUrl: "#",
     githubUrl: "#",
   },
@@ -16,7 +16,7 @@ const projects = [
     description:
       "Realtime auction platform built with for sellers & buyers.",
     image: "/projects/project22.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
+    tags: ["JavaScript", "Node Js", "Bootstrap"],
     demoUrl: "#",
     githubUrl: "#",
   },
