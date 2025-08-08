@@ -99,7 +99,7 @@ export const GameSection = () => {
   }, [snake, direction, food, gameOver, handleKeyDown]);
 
   return (
-    <section id="game" className="py-24 px-4 text-center">
+    <section id="game" className="py-24 px-4 text-center scroll-mt-20">
       <h2 className="text-3xl md:text-4xl font-bold mb-4">
         Bored? <span className="text-primary">Let&apos;s Play!</span>
       </h2>
